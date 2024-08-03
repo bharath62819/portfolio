@@ -16,7 +16,8 @@ export class ProjectsComponent {
     {
       name:'Portfolio Website',
       summary:'The Personal Portfolio Website is a web application designed to showcase my professional skills, projects, and education. The primary objective of this project is to provide a comprehensive platform where potential employers, collaborators, and peers can explore my work and learn more about my professional background.',
-      projectLink:'https://github.com/bharath62819/portfolio',
+      projectLink:'https://bharathportfolio666.netlify.app/',
+      codeLink:'https://github.com/bharath62819/portfolio',
       tags:['HTML','CSS','TypeScript','Bootstrap','Angular']
     },
 ]
