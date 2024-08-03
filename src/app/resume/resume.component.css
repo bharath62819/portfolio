@@ -1,4 +1,9 @@
 button a{
     text-decoration: none;
-    color: white;
+    color: wheat;
+
+}
+button{
+    background-color: black;
+    border: 2px solid wheat;
 }
